@@ -1,8 +1,17 @@
-# React + Vite
+🧠 Brainwave — 
+Live Demo 👉 ayxshaa.github.io/Brainwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brainwave is a modern, animated, and responsive portfolio website that showcases AI integration and beautiful user interactions using React.js, Framer Motion, and smooth scroll + UI transitions.
 
-Currently, two official plugins are available:
+<!-- Optional preview banner -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+⚛️ Built with React.js (Vite)
+
+🎞️ Animations powered by Framer Motion
+
+🧩 Modular, reusable component architecture
+
+📱 Fully responsive for all screen sizes
+
+🌐 Deployed with GitHub Pages
